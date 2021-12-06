@@ -1,3 +1,3 @@
 # hello-world
 an introduction to basic repository functionality...
-I am a student finishing up an AAS for Computer Science at Chattahoochee Technical College
+I am a student finishing up an AAS for Computer Programming at Chattahoochee Technical College
