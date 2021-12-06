@@ -1,2 +1,3 @@
 # hello-world
-an introduction to basic repository functionality
+an introduction to basic repository functionality...
+I am a student finishing up an AAS for Computer Programming at Chattahoochee Technical College
